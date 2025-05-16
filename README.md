@@ -1,2 +1,8 @@
-# augmented-fashion-mnist-classifier
-A neural network-based image classifier trained on the Fashion MNIST dataset with data augmentation techniques to improve generalization. Built using TensorFlow/Keras, this project demonstrates how to preprocess, augment, train, and evaluate a deep learning model for fashion item recognition.
+# Augmented Fashion MNIST Classifier
+
+This project implements a neural network with Keras to classify grayscale images of clothing from the Fashion MNIST dataset. It includes data augmentation techniques such as rotation, zoom, and horizontal flipping to increase model robustness and reduce overfitting.
+The main keys of the project are:
+
+* Neural Network models
+* Keras
+* Data Augmentation
